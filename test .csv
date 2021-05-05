@@ -1,5 +1,5 @@
  ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	LCSC Assembly
-"1"	"header pins"	"HEADER"	"HEADER PINS"	"1"	
+"1"	
 "2"	"10uF"	"C4"	"0603"	"1"	"CL10A106MQ8NNNC"	"SAMSUNG"	"LCSC"	"C1691"	""
 "3"	"BMP388"	"U2"	"ADAFRUIT BMP388 PRESS/TEMP  SENSOR PCB LIB FOR KFLMIAMI420 V1"	"1"	"Adafruit"	"Adafruit"	"Adafruit"	"3966"	""
 "4"	"BUZZERPTH-KIT"	"SG1"	"BUZZER-12MM-KIT"	"1"	""	""	""	""	""
